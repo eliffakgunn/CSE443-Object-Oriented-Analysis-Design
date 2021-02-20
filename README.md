@@ -2,8 +2,6 @@
 
 Object Oriented Analysis Design course's projects.  
   
-Includes Strategy Pattern, Observer Pattern, Decorator Pattern,
-Singleton Pattern, Iterator Pattern, State Pattern, Proxy Pattern, Abstract Factory Pattern, Adapter Pattern, Command Pattern, Template Pattern,
-Compound Pattern, MVC Pattern, and Mediator Pattern.  
+Includes Strategy, Observer, Decorator, Singleton, Iterator, State, Proxy, Abstract Factory, Adapter, Command, Template, Compound, MVC, and Mediator Patterns.  
   
 Also includes Java Swing and JavaFX projects.
